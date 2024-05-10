@@ -1,4 +1,4 @@
-package br.ufpb.dcx.rodrigor.atividade;
+package Batalha_Naval;
 
 import org.junit.jupiter.api.Test;
 
