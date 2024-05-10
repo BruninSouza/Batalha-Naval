@@ -5,7 +5,7 @@
 **Professor:** [Rodrigo Rebouças de Almeida](http://rodrigor.dcx.ufpb.br)
 
 # Descição do jogo
-Jogo de batalha naval para dois jogadores,
+Jogo de batalha naval para dois jogadores que atende às regras impostas no [link](https://drive.google.com/file/d/1mrRGJOe-Dhf6gWkV1YdjTja7VczGxvZH/view?usp=sharing).
 
 # Regras
 - Ambos os jogadores deverão distribuir suas embarcações nos arquivos `j1.txt` e `j2.txt`;
