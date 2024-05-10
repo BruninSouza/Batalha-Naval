@@ -1,5 +1,3 @@
-package br.ufpb.dcx.rodrigor.atividade;
-
 import java.util.HashSet;
 import java.util.Set;
 
